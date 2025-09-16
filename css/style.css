@@ -231,6 +231,30 @@ body {
   font-weight: 700;
 }
 
+/* ===== ZALO ICON SVG ===== */
+.zalo-icon {
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  vertical-align: middle;
+  fill: currentColor;
+}
+
+.btn .zalo-icon {
+  width: 1.2em;
+  height: 1.2em;
+}
+
+.footer-social .zalo-icon {
+  width: 1.1em;
+  height: 1.1em;
+}
+
+.contact-buttons .zalo-icon {
+  width: 24px;
+  height: 24px;
+}
+
 /* ===== NAVIGATION ===== */
 .navbar {
   position: fixed;
