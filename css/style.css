@@ -321,7 +321,7 @@ body {
 /* ===== HERO SECTION ===== */
 .hero {
   padding-top: 80px; /* Add padding to push content below fixed navbar */
-  min-height: 100vh;
+  min-height: 80vh;
   display: flex;
   align-items: center;
   position: relative;
